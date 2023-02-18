@@ -201,21 +201,21 @@ let handler = async (m, { conn, usedPrefix: _p, __dirname, args }) => {
    {
 	title: `${htki} ▮𝗦𝘁𝗮𝘁𝘂𝘀 」 ${htka}`,
 	rows: [
-	    {title: `📛)ഒ Info Bot`, rowId: ".botinfo", description: "✧ Info nya NexBotz ><"},
-	    {title: `💌)ഒ Owner`, rowId: ".owner", description: "✧ Ini Room Developer ku ^~^"},
-            {title: `🗣)ഒ Request Fitur`, rowId: ".request", description: "✧ Request Fitur menarik ke BOT"},
-            {title: `📊)ഒ Test Speed`, rowId: ".testspeed", description: "✧ Test Install Speed BOT"},
-	{title: `⚡)ഒ Speed`, rowId: ".speed", description: "✧ Kecepatan Respon 赤 NexBotz..."},
+	    {title: `Info Bot`, rowId: ".botinfo", description: "✧ Info nya NexBotz ><"},
+	    {title: `Owner`, rowId: ".owner", description: "✧ Ini Room Developer ku ^~^"},
+            {title: `Request Fitur`, rowId: ".request", description: "✧ Request Fitur menarik ke BOT"},
+            {title: `Test Speed`, rowId: ".testspeed", description: "✧ Test Install Speed BOT"},
+	{title: `Speed`, rowId: ".speed", description: "✧ Kecepatan Respon Daemon..."},
 	]
     },{
 	title: `${htki} ▮𝗖𝗮𝘁𝗲𝗴𝗼𝗿𝘆 」 ${htka}`,
 	rows: [
-	    {title: `🔖 〉ɞ 『 Sewa BOT 』`, rowId: ".sewabot", description: "✧ Menampilkan list harga sewa BOT"},
-	    {title: `🌟 〉ɞ 『 UP Premium 』`, rowId: ".sewabot", description: "✧ Menampilkan list harga upgrade premium"},
-	    {title: `🥞 〉ɞ 『 Get Hadiah 』`, rowId: ".daily", description: '✧ Mau hadiah nggak kak?... >.<'},
-	    {title: `💰 ∫ » Donasi «`, rowId: ".donasi", description: '✧ Support BOT agar on 1 Minggu non stop'},
-	{title: `✨ 〉ɞ 『 Rating 』`, rowId: ".rate", description: '✧ Jangan kasih rate rendah dong :/'},    
-	{title: `🗳️ 〉ɞ 『 My Profile 』`, rowId: ".profile", description: '✧ Siapa ya kamu?...'},
+	    {title: `『 Sewa BOT 』`, rowId: ".sewabot", description: "✧ Menampilkan list harga sewa BOT"},
+	    {title: `『 UP Premium 』`, rowId: ".sewabot", description: "✧ Menampilkan list harga upgrade premium"},
+	    {title: `『 Get Hadiah 』`, rowId: ".daily", description: '✧ Mau hadiah nggak kak?... >.<'},
+	    {title: `Donasi`, rowId: ".donasi", description: '✧ Support BOT agar on 1 Minggu non stop'},
+	{title: `『 Rating 』`, rowId: ".rate", description: '✧ Jangan kasih rate rendah dong :/'},    
+	{title: `『 My Profile 』`, rowId: ".profile", description: '✧ Siapa ya kamu?...'},
 	]
 	},{
 	title: `${htki} ▮𝗠𝗲𝗻𝘂 ${htka}`,
@@ -292,7 +292,7 @@ let tek = `    ⟪ *Yᴏᴜʀ Iɴғᴏ* ⟫ 
     ◉  𝙊𝙨 𝙋𝙡𝙖𝙩𝙛𝙧𝙤𝙢 : *${os.platform()}*`
 const listMessage = {
   text: tek,
-  footer: '© PutraModz | ALL RESERVED',
+  footer: 'DaeMon | Esce Di Yete Owner',
   mentions: await conn.parseMention(tek),
   title: ``,
   buttonText: `LIST MENU`,
@@ -526,19 +526,19 @@ let buttonMessage = {
 	'buttons': [{
 		'buttonId': '.report',
 		'buttonText': {
-			'displayText': '🍭CUSTOMER SERVICE'
+			'displayText': 'Ripot'
 		},
 		'type': 1
 	}, {
 		'buttonId': '.testspeed',
 		'buttonText': {
-			'displayText': '🥞SPEED NET'
+			'displayText': 'Speed'
 		},
 		'type': 1
 	}, {
 		'buttonId': '.sc',
 		'buttonText': {
-			'displayText': '📑SCRIPT BOT'
+			'displayText': 'Esce'
 		},
 		'type': 1
 	}],
@@ -558,7 +558,7 @@ await conn[_0x187932(0x1c2)](m[_0x187932(0x1cf)], buttonMessage, {
 	return conn.sendButton(m.chat, bottime, text, `${imgr + 'Menu'}`, [["REFERAL", _p + "ref"], ["DONASI", _p + "donasi"], ["OWNER", _p + "owner"]], m, {
         contextInfo: {
             externalAdReply: {
-                mediaUrl: "https://youtu.be/ALQiRR1nzLI",
+                mediaUrl: "https://youtu.be/c/@XiendaeMon",
                 mediaType: "VIDEO",
                 title: `Hallo👋 ${name} ${ucpn}`,
                 body: `RUNTIME: ${mpt}`,
@@ -585,12 +585,12 @@ function _0x1766() {
             fileLength: fsizedoc,
             pageCount: fpagedoc,
             caption: text,
-            footer: titlebot + '\n⚡ Supported By PutraModz',
+            footer: titlebot + '\n⚡ Supported By Daemon',
             templateButtons: [
                 {
                     urlButton: {
                         displayText: `${namebot}`,
-                        url: 'https://chat.whatsapp.com/FR1KfE3OTcQCayiabos8Ff'
+                        url: 'https://chat.whatsapp.com/ngentit'
                     }
                 },
                 {
