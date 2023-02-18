@@ -27,32 +27,32 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
       
 
 /*============== INFO OWNER ==============*/
-global.sig = 'https://instagram.com/l4c1f2r'
-global.syt = 'https://youtu.be/ALQiRR1nzLI'
+global.sig = 'https://instagram.com/xiendaemon'
+global.syt = 'https://youtu.be/c/@xiendaemon'
 global.sgh = 'https://github.com/Turu-bangun'
-global.sgc = 'https://chat.whatsapp.com/FR1KfE3OTcQCayiabos8Ff'
-global.swa = 'wa.me/6282214729677'
-global.swb = 'https://discord.gg/4HvezMAw'
+global.sgc = 'https://chat.whatsapp.com/ewekontit'
+global.swa = 'wa.me/6281269734000'
+global.swb = 'https://discord.gg/ngentittt'
 global.snh = 'https://nhentai.net/g/365296/' //Make ini aja gausah di ganti.
 
 /*============== PAYMENT ==============*/
-global.pdana = '-'
-global.povo = '-'
-global.pgopay = '-'
-global.ppulsa = '-'
-global.ppulsa2 = '-'
-global.psaweria = '-'
+global.pdana = '087865346175'
+global.povo = '087865346175'
+global.pgopay = '087865346175'
+global.ppulsa = '087865346175'
+global.ppulsa2 = '087865346175'
+global.psaweria = '087865346175'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6283863727413'
-global.nomorown = '6282214729677'
-global.namebot = 'NexBotz'
-global.nameown = 'PutraModz'
+global.nomorbot = '6287865346175'
+global.nomorown = '6281269734000'
+global.namebot = 'DaeMon'
+global.nameown = 'XienDaeMon'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6282214729677', 'PutraModz', 'true']
+  ['6281269734000', 'XienDaeMon', 'true']
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -102,16 +102,16 @@ global.bear = 'VBkM7rbU'
 
 
 /*============== WATERMARK ==============*/
-global.wm = 'By NexBotz' //Main Watermark
-global.wm2 = 'PutraKeche'
-global.wm3 = 'NexBotz | By PutraModz'
-global.botdate = `⻝ 𝗗𝗮𝘁𝗲: ${week} ${date}\n⻝ 𝗧𝗶𝗺𝗲: ${wktuwib}`
-global.bottime = `⻝ 𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
-global.titlebot = `NexBotz | ʙʏ ${global.nameown}`
-global.author = 'PutraModz' 
-global.packname = 'PutraKeche'
-global.danied = '✘ 𝗘𝗥𝗢𝗥 𝟰𝟬𝟰'
-global.ultahowner = 'Februari 02 2023'
+global.wm = 'By DaeMon' //Main Watermark
+global.wm2 = 'Xien Elit Cees'
+global.wm3 = 'DaeMon | By Xien Elit Cees'
+global.botdate = `Tanggal: ${week} ${date}\nWaktu: ${wktuwib}`
+global.bottime = `W A K T U : ${wktuwib}`
+global.titlebot = `DaeMon | By ${global.nameown}`
+global.author = 'DaeMon' 
+global.packname = 'Xien Elit Cees'
+global.danied = '𝗘𝗥𝗢𝗥 𝟰𝟬𝟰'
+global.ultahowner = 'November 8 2023'
 
 
 /*============== LOGO ==============*/
@@ -126,15 +126,15 @@ global.thumbWarn = 'https://telegra.ph/file/a5eb5169ab1330a537e0b.jpg'
 global.botintro = 'Hallo, Kenalin saya NexBotz Saya akan membantu Anda kapan pun & Dimana pun, Saya asisten bot WhatsApp yang di buat oleh PutraModz Saya di rilis pada tanggal\n🗓 ️_16/10/2022_'
 global.intro = 'https://telegra.ph/file/6ab4daac226292a112540.jpg'
 /*============== GLOBAL BIO ==============*/
-global.nameowner = 'Putra'
-global.umurowner = '18'
-global.asalowner = 'Jawa Barat, Kuningan'
-global.nomorowner = 'wa.me/6282214729677'
-global.pacarowner = 'Amelia Putri septiany'
+global.nameowner = 'DaeMon'
+global.umurowner = '15'
+global.asalowner = 'Medan,Sumatra Utara'
+global.nomorowner = 'wa.me/6281269734000'
+global.pacarowner = 'Mihye'
 
 /*============== TEXT ==============*/
-global.wait = '```𝙇𝙤𝙖𝙙𝙞𝙣𝙜...```'
-global.eror = '```𝙉𝙤𝙩 𝙁𝙤𝙪𝙣𝙙 𝟰𝟬𝟰 𝙀𝙧𝙤𝙧```'
+global.wait = '```Loding Bentar```'
+global.eror = '```Error 404 Not Found```'
 
 /*=========== TYPE DOCUMENT ===========*/
 global.dpptx = 'application/vnd.openxmlformats-officedocument.presentationml.presentation'
