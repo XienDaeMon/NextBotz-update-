@@ -13,8 +13,8 @@ let pp = '25'
 let pv = '35'
 let ppm = '35'
 //jasa run
-let ri = '25'
-let pk = '30'
+let ri = '5'
+let pk = '10'
 let info = `
 ╭━━━━「 *SEWA* 」
 ┊⫹⫺ *Hemat:* _${sh}k/grup (7 Hari)_
@@ -48,24 +48,6 @@ let info = `
 ✧ *Anti Sticker✅*
 ✧ *Anti Toxic↗️*
 ✧ *DLL*
-✧ *MEMBELI BERATI SETUJU*
-
-_Total Fitur:_ 570++
-
-*⫹⫺ PAYMENT:*
-• *Dana:*
-• *Gopay:*
-• *Ovo:*
-• *QRIS*
-• *ALL PAYMENT*
-–––––– *🐾 Kebijakan* ––––––
-🗣️: Kak, Kok harganya mahal banget?
-💬: Mau tawar menawar? boleh, silahkan chat owner aja
-
-🗣️: Scam ga nih kak?
-💬: Enggalah, Owner 100% Tepati janji #STAYHALAL
-
-▌│█║▌║▌║║▌║▌║█│▌
 `
 const sections = [
    {
