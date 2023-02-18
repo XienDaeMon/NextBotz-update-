@@ -14,28 +14,28 @@ let handler  = async (m, { conn, command, args, usedPrefix, DevMode }) => {
 • Owner tidak menerima save contact
 • Owner berhak blockir tanpa alasan
 • Berbicaralah yang sopan & tidak spam
-• Owner Hanya merespon yang berkaitan dengan BOT
+• Owner Hanya merespon yang berkaitan dengan BOT Atau Cewek🗿✌️
 • No Telp`
 
 //------------ BIO
 let ppown = await conn.profilePictureUrl(nomorown + '@s.whatsapp.net', 'image').catch(_ => hwaifu[1]) 
 let teksbio = `${htki} *BIODATA* ${htka}
-${htjava} *💌 Nama* : PutraModz 
-${htjava} *✉️ Nama RL* : PUTRA
+${htjava} *💌 Nama* : XienDaemon 
+${htjava} *✉️ Nama RL* : Akmal
 ${htjava} *♂️ Gender* : Boys
 ${htjava} *🕋 Agama* : Islam
 ${htjava} *⏰ Tanggal lahir* : Private 🥶
 ${htjava} *🎨 Umur* : PRIVATE
 ${htjava} *🧮 Kelas* : PRIVATE
-${htjava} *🧩 Hobby* : MODIFIKASI WHATSAPP
+${htjava} *🧩 Hobby* : PRIVATE
 ${htjava} *💬 Sifat* : ASIK DAH KALAU DAH KENAL
-${htjava} *🗺️ Tinggal* : Jawa Barat, Kuningan 
-${htjava} *❤️ Waifu* : Amelia Putri septiany
+${htjava} *🗺️ Tinggal* : Sumatra Utara, Medan 
+${htjava} *❤️ Waifu* : Chikaaa❤️❤️
 
 ${htjava} *📷 ɪɴsᴛᴀɢʀᴀᴍ* : ${sig}
 •·––––––––––––––––––––––––––·•
 `
-  let teks = 'Pilih dibawah kak ! o(〃＾▽＾〃)o'
+  let teks = 'Pilih dibawah Ngabs!!'
 const sections = [
    {
 	title: `${htjava} OWNER –––––––––·•`,
